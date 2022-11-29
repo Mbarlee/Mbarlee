@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mbali Khumalo</h1>
+<h1 align="center">👋 I'm Mbali Khumalo</h1>
 <h3 align="center">I am learning and aiming to succeed in Frontend Web Development.</h3>
 <img align="right" alt="Coding" width="400" src="https://assets.entrepreneur.com/content/3x2/2000/1631038470-Ent-JavaProgramming.jpg?crop=16:9"
 
