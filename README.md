@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://assets.entrepreneur.com/content/3x2/2000/1631038470-Ent-JavaProgramming.jpg?crop=16:9"
 
 - 🔭 I’m currently working on **alx-high_level_programming**
-- 🌱 I’m currently learning **Python**
 - 📫 How to reach me **shezi7314@gmail.com**
 - ⚡ Fun fact **I am a fun and loving person**
 <h3 align="left">Connect with me:</h3>
